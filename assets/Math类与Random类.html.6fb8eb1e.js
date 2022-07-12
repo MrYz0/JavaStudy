@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o as t,c as _}from"./app.56b03e2c.js";const o={};function r(a,c){return t(),_("div")}var f=e(o,[["render",r],["__file","Math\u7C7B\u4E0ERandom\u7C7B.html.vue"]]);export{f as default};
